@@ -13,8 +13,6 @@ Hi everyone! I am learning to code, from a health background.
 </div>
 
 
-
-
 My hobbies include:
 - calisthenics
 - meditation
