@@ -2,7 +2,7 @@
 
 ## About Me
 Hi everyone! I am learning to code, from a health background. 
-
+---------------
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -17,7 +17,7 @@ Hi everyone! I am learning to code, from a health background.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soysauce4444&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+----------------------------------
 
 My hobbies include:
 - calisthenics
