@@ -1,7 +1,7 @@
 # Noah Choi
 
 ## About Me
-Hi everyone! I am learning to code, from a health background. 
+Hi everyone! I am a web developer with a background in health sciences. I have enjoyed learning about new concepts such as APIs, arrays, and the variety of tools that make the sky the limit on the types of apps that can be built.
 
 
 ### :hammer_and_wrench: Languages and Tools :
