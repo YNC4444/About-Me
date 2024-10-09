@@ -1,4 +1,4 @@
-# soysauce4444
+# Noah Choi
 
 ## About Me
 Hi everyone! I am learning to code, from a health background. 
